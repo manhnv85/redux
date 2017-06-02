@@ -1,0 +1,3 @@
+rootProject.name = 'ta123'
+
+include ':app'
